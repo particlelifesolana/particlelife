@@ -15,7 +15,7 @@ Online Demo (JavaScript version):
 
 Click here for a live demo (JavaScript): 
 
-  - 2d - https://tinyurl.com/particlelifeonsolana
+  - 2d - https://particlelifesolana.github.io/particlelife/index.html#91651088029
 
 Interface (C++ version)
 --------------------------------------------------------
